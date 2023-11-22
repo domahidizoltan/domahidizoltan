@@ -9,8 +9,7 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 Rust       5 hrs 18 mins   ███████████████░░░░░░░░░░   60.47 %
 Other      2 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   32.83 %
 Solidity   25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-INI        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
