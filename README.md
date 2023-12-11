@@ -6,11 +6,11 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       10 hrs 4 mins   ███████████████▒░░░░░░░░░   60.80 %
-Other      4 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.80 %
-Solidity   50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-HTML       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Makefile   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Rust         17 hrs 4 mins   ██████████████░░░░░░░░░░░   55.39 %
+Other        9 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   30.26 %
+HTML         1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Solidity     1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
