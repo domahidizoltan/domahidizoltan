@@ -14,6 +14,10 @@ HTML         1 hr 54 mins    █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=domahidizoltan&layout=horizontal&badges=2&show-avatar=true&style=--header-bg-color:%23677b9c;--border-radius:10px;" height="150px"/>
+<br/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=domahidizoltan&skills=Go,HTML,JSON,Java,JavaScript,Kotlin,Protocol%20Buffer,Python,Rust,SQL,Shell,Solidity,TypeScript&width=640" width="640px"/>
+
 <!--
 **domahidizoltan/domahidizoltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
