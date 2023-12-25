@@ -7,9 +7,6 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 
 ```txt
 Other        16 hrs 19 mins  █████████░░░░░░░░░░░░░░░░   36.19 %
-Rust         11 hrs          ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-Go           9 hrs 48 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
-HTML         1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 ```
 
 <!--END_SECTION:waka-->
