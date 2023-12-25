@@ -16,3 +16,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_30_days
           IGNORED_LANGUAGES: Binary YAML JSON TOML md Markdown INI
+          STOP_AT_OTHER: true
