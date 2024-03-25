@@ -6,8 +6,9 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Bash       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Rust          1 hr 40 mins    ███████▓░░░░░░░░░░░░░░░░░   31.16 %
+Go            48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Image (png)   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
