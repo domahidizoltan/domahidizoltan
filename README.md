@@ -6,11 +6,11 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Rust          3 hrs 2 mins    █████████████▓░░░░░░░░░░░   55.08 %
-Other         1 hr 24 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
-Go            19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Markdown      17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-TOML          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Rust       1 hr 23 mins    █████████░░░░░░░░░░░░░░░░   35.94 %
+Other      1 hr 13 mins    ████████░░░░░░░░░░░░░░░░░   31.59 %
+Go         43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+Markdown   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JSON       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
