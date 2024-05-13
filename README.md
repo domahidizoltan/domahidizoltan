@@ -6,11 +6,11 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go                1 hr 42 mins    ██████████▒░░░░░░░░░░░░░░   40.73 %
-Other             1 hr 20 mins    ████████░░░░░░░░░░░░░░░░░   31.99 %
-Rust              23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-Makefile          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Markdown          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Go                3 hrs 17 mins   ██████████████▒░░░░░░░░░░   57.04 %
+Other             1 hr 49 mins    ████████░░░░░░░░░░░░░░░░░   31.73 %
+Makefile          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Protocol Buffer   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Markdown          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
