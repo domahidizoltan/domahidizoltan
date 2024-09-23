@@ -6,7 +6,8 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-
+Bash    20 mins         ██████████░░░░░░░░░░░░░░░   40.57 %
+Text    7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
 ```
 
 <!--END_SECTION:waka-->
