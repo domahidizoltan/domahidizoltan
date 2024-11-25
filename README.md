@@ -6,9 +6,9 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go         23 hrs 59 mins  █████████████████████▓░░░   86.94 %
-Lua        57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Text       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Go         23 hrs 48 mins  ██████████████████████▓░░   90.16 %
+Lua        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+CSV        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
