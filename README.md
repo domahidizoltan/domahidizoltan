@@ -6,8 +6,9 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go         29 hrs 12 mins  ███████████████████████▓░   94.45 %
-Makefile   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Go         30 hrs 48 mins  ███████████████████████▓░   94.97 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
