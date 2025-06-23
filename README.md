@@ -6,10 +6,10 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Python        2 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-Go            2 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-Lua           1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Makefile      1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Go            3 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   32.92 %
+Lua           1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Makefile      1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+JSONLD        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
