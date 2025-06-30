@@ -6,10 +6,10 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go            3 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   32.92 %
-Lua           1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
-Makefile      1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-JSONLD        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Go            3 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.77 %
+Lua           1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Makefile      1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+JSONLD        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
