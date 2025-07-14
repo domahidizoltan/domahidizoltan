@@ -6,10 +6,9 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go         2 hrs 40 mins   ██████████▒░░░░░░░░░░░░░░   41.42 %
-Makefile   1 hr 12 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-JSONLD     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Text       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Go          7 hrs 8 mins    ██████████████▒░░░░░░░░░░   57.17 %
+gitignore   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Bash        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
