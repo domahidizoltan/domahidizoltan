@@ -6,10 +6,10 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go          4 hrs 52 mins   ███████████████▓░░░░░░░░░   62.99 %
-gitignore   29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Bash        28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-HTML        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Go         1 hr 59 mins    █████████░░░░░░░░░░░░░░░░   36.53 %
+Lua        46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+tmux       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Bash       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
