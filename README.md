@@ -6,10 +6,10 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go           15 hrs 54 mins  ███████████████░░░░░░░░░░   60.45 %
-HTML         6 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-JavaScript   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-SQL          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Go           14 hrs 22 mins  ████████████████▒░░░░░░░░   65.39 %
+HTML         3 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+SQL          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+JavaScript   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
