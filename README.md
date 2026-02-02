@@ -6,10 +6,9 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go                8 hrs 2 mins    ██████████▓░░░░░░░░░░░░░░   42.03 %
-Makefile          2 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
-CSS               2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-HTML              50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Go            15 hrs 53 mins  ██████████████████▒░░░░░░   73.77 %
+HTML          1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Bash          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
