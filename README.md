@@ -6,10 +6,7 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go             54 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-HTML           20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Kotlin         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-JavaScript     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
