@@ -6,7 +6,7 @@ Check my pinned repos and the language statistics to see what I'm working on at 
 <!--START_SECTION:waka-->
 
 ```txt
-Go   0 secs                █████████████████████████   100.00 %
+Go   10 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
